@@ -1,4 +1,7 @@
 ### Hi there 👋
 
-
-![github commit](https://raw.githubusercontent.com/GuoKeMPF/GuoKeMPF/snake/github-contribution-grid-snake.svg "github commit")
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuoKeMPF/GuoKeMPF/snake/github-snake.svg" alt="github commit" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuoKeMPF/GuoKeMPF/snake/github-snake-dark.svg?palette=github-dark" alt="github commit" />
+  <img alt="github commit" src="https://raw.githubusercontent.com/GuoKeMPF/GuoKeMPF/snake/github-snake.svg" />
+</picture>
