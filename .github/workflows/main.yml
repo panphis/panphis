@@ -1,4 +1,4 @@
-name: GitHub-Profile-3D-Contrib
+name: generate-github-profile-3d-contrib
 
 on:
   # run automatically every 24 hours
@@ -28,6 +28,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: profile-3d-contrib
-          build_dir: dist
+          build_dir: profile-3d-contrib
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
